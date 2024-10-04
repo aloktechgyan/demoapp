@@ -23,4 +23,4 @@ Library for PDF used: PdfParser
 #How to setup project.
 1. clone project from Girhub Link: https://github.com/aloktechgyan/demoapp
 2. Setup Database : laravel_db.sql
-3. Setup the Project Laravl & React.
+3. Setup the Project Laravel & React.
